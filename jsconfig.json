@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "jsx": "react",
+    "module": "commonjs",
+    "baseUrl": "./src",
+    "allowSyntheticDefaultImports": true,
+    "checkJs": true
+  },
+  "exclude": [
+    "node_module"
+  ]
+}
